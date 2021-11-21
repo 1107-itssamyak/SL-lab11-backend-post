@@ -8,4 +8,4 @@ const studentSchema = new Schema({
     marks: String
 });
 
-module.exports = mongoose.model("firstmongoose", studentSchema, "SL-Lab-13")
+module.exports = mongoose.model("firstmongoose", studentSchema, "SL-Lab-11")
